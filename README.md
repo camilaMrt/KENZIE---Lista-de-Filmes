@@ -34,8 +34,8 @@ Projeto desenvolvido na maratona de programação da <a href="https://kenzie.com
 
 <h3>:triangular_flag_on_post: Funcionalidades</h3> <br>
 
-:small_blue_diamond:
+:small_blue_diamond: Cada botão realiza a função de mostrar os filmes apenas do gênero indicado, ou todos eles se assim escolher.
 
-:small_blue_diamond:
+:small_blue_diamond: O botão início volta a página inicial, séries ainda não adicionadas.
 
-:small_blue_diamond:  
+:small_blue_diamond: A opção de buscar o filme digitando seu nome está sem funcionalidade (será atualizado).
