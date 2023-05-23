@@ -26,9 +26,9 @@ Projeto desenvolvido na maratona de programação da <a href="https://kenzie.com
 
 <h3>:triangular_flag_on_post: Checkpoints</h3> 
 
-:small_blue_diamond: [Introdução ao HTML](https://kenzieacademybr.notion.site/Checkpoint-a3bb93eeea17474b8a71a204d3202992)<br>
-:small_blue_diamond: [Introdução ao CSS](https://kenzieacademybr.notion.site/Checkpoint-3d724cd4547046178d8ce1b1c0d7dccf)<br>
-:small_blue_diamond: [Introdução ao Javascript](https://kenzieacademybr.notion.site/Checkpoint-9b7fc209e7bd4cadbeee4d8a5ed5cdc7)
+:small_blue_diamond: [Aula 1: Introdução ao HTML](https://kenzieacademybr.notion.site/Checkpoint-a3bb93eeea17474b8a71a204d3202992)<br>
+:small_blue_diamond: [Aula 2: Introdução ao CSS](https://kenzieacademybr.notion.site/Checkpoint-3d724cd4547046178d8ce1b1c0d7dccf)<br>
+:small_blue_diamond: [Aula 3: Introdução ao Javascript](https://kenzieacademybr.notion.site/Checkpoint-9b7fc209e7bd4cadbeee4d8a5ed5cdc7)
 
 ##
 
