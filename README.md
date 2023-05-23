@@ -1,10 +1,15 @@
-# Lista de Filmes Kenzie
+# <div align="center">Lista de Filmes Kenzie</div>
 
-<h3>:triangular_flag_on_post: Descrição do projeto</h3> <br>
+<div align="center"><h3>:triangular_flag_on_post: Descrição do projeto</h3> 
 
-:small_blue_diamond: Projeto desenvolvido na maratona de programação da <a href="https://kenzie.com.br/">
-<img width="70" align="center" src="https://kenzie.com.br/_next/image?url=%2Fimages%2Flogo.png&w=640&q=75"></a> (Kenzie Academy Brasil).
-<br>
+Projeto desenvolvido na maratona de programação da <a href="https://kenzie.com.br/"><br>
+<img width="70" align="center" src="https://kenzie.com.br/_next/image?url=%2Fimages%2Flogo.png&w=640&q=75"></a> (Kenzie Academy Brasil).</div>
+
+<br><br>
+
+<div align="center"><img width="500px" src="https://github.com/camilaMrt/projeto-kenzie-filmes/blob/main/img/Gif%20kenzie%20filmes.gif?raw=true"></div>
+
+<br><br>
 
 ##
 
@@ -29,8 +34,8 @@
 
 <h3>:triangular_flag_on_post: Funcionalidades</h3> <br>
 
-:small_blue_diamond:
+:small_blue_diamond: Cada botão realiza a função de mostrar os filmes apenas do gênero indicado, ou todos eles se assim escolher.
 
-:small_blue_diamond:
+:small_blue_diamond: O botão início volta a página inicial, séries ainda não adicionadas.
 
-:small_blue_diamond:  
+:small_blue_diamond: A opção de buscar o filme digitando seu nome está sem funcionalidade (será atualizado).
